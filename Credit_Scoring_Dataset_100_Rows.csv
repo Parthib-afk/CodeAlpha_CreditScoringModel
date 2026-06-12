@@ -1,0 +1,101 @@
+Age,Sex,Job,Housing,Saving_Accounts,Checking_Account,Credit_Amount,Duration,Purpose,Income,Debt,Payment_History,Debt_to_Income_Ratio,Creditworthy
+63,male,3,rent,quite rich,rich,6952,7,vacation,108671,76961,average,0.71,0
+62,female,3,free,quite rich,moderate,7465,36,education,35310,19859,average,0.56,0
+49,male,0,rent,rich,moderate,15585,25,vacation,117427,18189,good,0.15,1
+31,female,0,own,rich,moderate,16060,41,business,32150,721,poor,0.02,1
+45,male,1,own,quite rich,rich,3165,26,car,37016,6073,average,0.16,1
+43,male,2,own,little,little,1636,14,business,63633,32384,average,0.51,0
+64,male,2,free,moderate,rich,15970,19,home_appliance,106792,18931,good,0.18,1
+25,male,3,free,rich,moderate,659,62,vacation,118278,77911,poor,0.66,0
+30,male,1,free,little,moderate,17426,54,vacation,99034,36839,poor,0.37,1
+18,female,3,rent,quite rich,little,15389,32,vacation,87488,26811,good,0.31,1
+55,male,3,own,quite rich,little,14490,44,home_appliance,68396,44880,good,0.66,0
+20,female,3,own,quite rich,rich,16975,69,business,111644,84515,average,0.76,0
+37,male,1,rent,rich,little,18874,53,home_appliance,60853,25853,poor,0.42,0
+65,male,0,own,moderate,moderate,7659,35,car,85078,23918,good,0.28,1
+39,male,2,rent,rich,little,3455,33,education,78499,40631,poor,0.52,0
+44,male,1,free,quite rich,moderate,13083,50,business,54590,40909,poor,0.75,0
+20,male,3,free,moderate,little,7297,69,business,29121,3419,good,0.12,1
+36,female,0,rent,quite rich,moderate,5285,71,business,53490,36348,average,0.68,0
+56,male,2,own,moderate,moderate,14499,13,education,57729,40225,good,0.7,0
+25,female,0,rent,little,moderate,721,69,car,76171,52585,good,0.69,0
+58,male,1,rent,little,little,16711,63,vacation,85471,21101,poor,0.25,1
+47,male,2,rent,quite rich,little,10085,10,home_appliance,82201,65046,average,0.79,0
+65,female,0,free,rich,rich,17447,30,vacation,105997,5245,average,0.05,1
+24,male,3,own,quite rich,little,18608,47,home_appliance,89507,43130,average,0.48,0
+54,male,1,rent,quite rich,little,2277,51,vacation,55768,25,good,0.0,1
+22,female,3,free,moderate,little,18428,42,education,57659,27340,good,0.47,0
+56,male,3,own,moderate,rich,3735,60,education,86707,37982,poor,0.44,0
+29,female,3,free,rich,rich,18386,22,education,31945,19328,average,0.61,0
+39,male,0,rent,rich,rich,12251,32,car,115845,78363,good,0.68,0
+23,male,3,own,quite rich,moderate,10915,66,vacation,80134,41923,poor,0.52,0
+38,male,2,own,moderate,rich,11741,10,car,37728,5221,good,0.14,1
+41,female,1,own,rich,rich,11419,47,education,89135,5085,good,0.06,1
+44,female,0,rent,quite rich,rich,7928,18,car,88796,36440,poor,0.41,0
+36,female,0,own,rich,moderate,14204,35,business,27350,8879,average,0.32,1
+39,female,1,rent,little,little,6839,29,business,114402,9375,good,0.08,1
+58,male,1,own,moderate,rich,16840,44,vacation,78206,24239,poor,0.31,1
+42,male,1,free,quite rich,little,8671,43,home_appliance,59123,25240,average,0.43,0
+58,female,3,rent,moderate,rich,3280,30,home_appliance,80102,27667,good,0.35,1
+22,male,0,rent,quite rich,moderate,2075,30,home_appliance,68383,26577,good,0.39,1
+63,male,1,free,little,moderate,3029,17,business,31031,16255,good,0.52,0
+55,female,2,free,rich,rich,19827,71,education,98103,59139,average,0.6,0
+36,female,2,rent,quite rich,rich,13912,32,home_appliance,66621,12004,poor,0.18,1
+35,female,0,own,rich,rich,9909,21,business,110691,7776,average,0.07,1
+53,male,0,own,little,moderate,17473,18,vacation,33948,16467,poor,0.49,0
+64,female,1,free,rich,rich,14706,12,car,93012,22955,average,0.25,1
+65,female,2,rent,rich,rich,9537,44,car,64415,38964,poor,0.6,0
+55,male,2,rent,rich,rich,1596,40,business,57486,15699,poor,0.27,1
+37,female,3,rent,little,little,2008,43,home_appliance,77257,60165,average,0.78,0
+49,male,0,own,moderate,moderate,13294,24,vacation,117044,45928,good,0.39,1
+53,female,3,free,little,moderate,13490,32,business,74303,24026,average,0.32,1
+45,male,1,free,rich,rich,4845,8,business,98597,67427,poor,0.68,0
+52,male,1,own,moderate,moderate,19957,48,vacation,46562,24431,average,0.52,0
+42,male,3,rent,moderate,moderate,10140,25,home_appliance,27631,6557,average,0.24,1
+57,male,0,rent,moderate,moderate,19436,32,car,48361,22864,average,0.47,0
+43,female,2,free,little,rich,10133,10,home_appliance,101522,66647,good,0.66,0
+59,female,2,free,moderate,rich,10568,10,car,39497,5578,good,0.14,1
+34,female,1,rent,quite rich,moderate,15927,22,car,99029,73968,good,0.75,0
+33,female,2,rent,little,moderate,672,53,home_appliance,39413,10093,average,0.26,1
+29,female,2,own,little,little,7205,52,education,47569,2989,average,0.06,1
+62,female,0,rent,quite rich,rich,2762,25,business,62483,33431,poor,0.54,0
+18,female,3,rent,little,rich,19391,19,business,107844,15596,poor,0.14,1
+57,female,1,rent,moderate,moderate,7359,14,vacation,68148,41050,poor,0.6,0
+28,female,1,rent,little,rich,12004,66,business,70192,20047,average,0.29,1
+51,female,0,own,rich,rich,17328,62,vacation,83920,31866,good,0.38,1
+63,female,1,rent,quite rich,moderate,15498,18,home_appliance,64423,33531,average,0.52,0
+44,male,2,rent,moderate,moderate,6471,45,business,57601,12780,poor,0.22,1
+63,male,1,rent,quite rich,little,12394,23,education,93631,53660,poor,0.57,0
+26,female,3,free,moderate,little,9303,23,education,81709,41222,average,0.5,0
+28,female,0,own,rich,moderate,12258,15,car,110859,346,average,0.0,1
+51,female,2,own,moderate,moderate,4712,57,car,46952,25795,good,0.55,0
+42,female,3,free,quite rich,little,18991,40,car,88994,935,poor,0.01,1
+42,male,0,rent,moderate,little,11549,59,home_appliance,53687,6902,poor,0.13,1
+52,male,2,rent,moderate,moderate,4961,62,business,116639,142,good,0.0,1
+20,female,2,free,little,rich,2252,32,vacation,77567,3897,good,0.05,1
+33,male,2,own,little,moderate,12374,33,business,119862,94605,average,0.79,0
+23,male,3,own,moderate,moderate,11149,47,home_appliance,40364,3000,average,0.07,1
+36,male,1,own,quite rich,rich,13301,33,vacation,97553,58712,good,0.6,0
+46,male,1,own,little,little,931,55,vacation,40128,6868,good,0.17,1
+64,female,1,rent,rich,moderate,6789,47,vacation,79065,35102,good,0.44,0
+45,male,3,free,little,little,17530,45,business,90382,33567,good,0.37,1
+40,female,0,free,little,moderate,6293,58,car,78337,31772,average,0.41,0
+47,male,3,rent,quite rich,rich,15234,29,education,34742,22490,average,0.65,0
+61,male,1,free,quite rich,moderate,15767,58,education,61989,43652,good,0.7,0
+56,male,3,own,quite rich,moderate,13335,66,education,67578,47820,good,0.71,0
+37,female,0,free,quite rich,little,2398,32,vacation,58234,28479,good,0.49,0
+19,female,2,rent,little,rich,3503,55,vacation,103919,59279,average,0.57,0
+57,male,1,rent,little,moderate,3917,37,vacation,80085,5173,average,0.06,1
+35,female,1,own,quite rich,moderate,14076,11,vacation,49825,18242,poor,0.37,1
+65,male,1,own,moderate,little,6198,21,home_appliance,105428,7473,good,0.07,1
+25,female,3,own,rich,moderate,13578,68,car,63331,18834,poor,0.3,1
+55,male,2,own,rich,rich,2417,31,education,113715,28943,average,0.25,1
+30,female,1,free,quite rich,moderate,19241,31,home_appliance,60131,21715,good,0.36,1
+58,female,0,own,little,little,13011,42,vacation,46862,14795,average,0.32,1
+56,female,2,free,moderate,rich,19465,6,business,112641,34554,average,0.31,1
+26,male,1,own,rich,moderate,9374,69,vacation,115362,30535,poor,0.26,1
+34,male,2,rent,little,rich,16168,10,vacation,37983,25431,good,0.67,0
+54,female,1,rent,quite rich,little,14187,47,home_appliance,111651,5731,poor,0.05,1
+19,male,0,rent,little,rich,12969,23,car,90642,35460,good,0.39,1
+47,male,1,rent,rich,little,16530,27,business,47326,31963,average,0.68,0
+18,male,3,free,moderate,moderate,4652,27,home_appliance,71395,55210,good,0.77,0
